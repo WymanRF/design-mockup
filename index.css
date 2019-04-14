@@ -42,7 +42,7 @@ code {
       grid-column: 1/7;
       grid-row: 1/4;
       background-image: url(logo-black.png);
-      background-color: lightblue;
+      background-color: lightgreen;
       background-size: contain;
       background-repeat: no-repeat;
   }
